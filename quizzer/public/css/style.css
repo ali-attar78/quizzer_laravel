@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+    
+    }
+    
+    
+    .btn-add{
+    
+        border-radius: 100%;
+        width: 60px;
+        height: 60px;
+        position: fixed;
+        left: 100px;
+        bottom: 100px;
+    
+    }
+
+.finalCard{
+
+    margin: auto;
+
+}
+
+
+.score{
+ position: relative;
+top: 40px;
+
+}
+
+.btnRound {
+    width: 55px!important;
+    height: 55px!important;
+
+}
+.btnimg{
+    width: 30px;
+    height: 30px;
+}
